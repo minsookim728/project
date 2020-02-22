@@ -12,6 +12,7 @@ def execution():
     date_start = '2020-02-15'
     date_end = '2020-02-19'
     command = 'TR <1.5 >0.5'.split()
+    #Hello 
 
     api_key = get_apikey(path_apikey)
     #Concatenate the variables to create a full valid url
